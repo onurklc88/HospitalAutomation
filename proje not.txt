@@ -1,0 +1,14 @@
+kullanýcý adý þifre
+--------------------
+bilgi islem:
+kaan 123
+tugay 153
+doktor þifre:
+hande	25
+gazi 11
+Hemþire þifre
+ayþe 153	sahhra	123
+yönetici þifre
+Deniz 123
+semih 153
+-------------
